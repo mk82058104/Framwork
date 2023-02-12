@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22208" started-at="2023-01-29T20:56:36 IST" finished-at="2023-01-29T20:56:58 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22208" started-at="2023-01-29T20:56:36 IST" finished-at="2023-01-29T20:56:58 IST">
+      <class name="com.testrunnerPageFactory.LoginTestpageF">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.testrunnerPageFactory.LoginTestpageF@13c27452]" name="setUp" is-config="true" duration-ms="3717" started-at="2023-01-29T20:56:36 IST" finished-at="2023-01-29T20:56:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TC_03()[pri:0, instance:com.testrunnerPageFactory.LoginTestpageF@13c27452]" name="TC_03" duration-ms="2158" started-at="2023-01-29T20:56:40 IST" finished-at="2023-01-29T20:56:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_03 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.testrunnerPageFactory.LoginTestpageF@13c27452]" name="tearDown" is-config="true" duration-ms="16286" started-at="2023-01-29T20:56:42 IST" finished-at="2023-01-29T20:56:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.testrunnerPageFactory.LoginTestpageF -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
