@@ -20,6 +20,7 @@ public class LoginStepsDef {
 	@When("click on loing button")
 	public void click_on_loing_button() {
 		 System.out.println("click on loing button");
+		 System.out.println("click on loing button");
 	  
 	}
 
